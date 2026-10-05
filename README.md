@@ -59,6 +59,7 @@ I am developing practical capabilities in:
 * Power BI
 * Python
 * Pandas
+* Data Management and Quality Practices
 
 ## Projects
 
