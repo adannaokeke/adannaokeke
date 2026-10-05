@@ -85,13 +85,6 @@ The project includes:
 
 [View Project →](https://github.com/adannaokeke/Customer-Records-Data-Cleaning)
 
-## Currently Learning
-
-* Advanced Excel for data processing and analysis
-* SQL for data querying
-* Power BI for reporting and visualization
-* Python for data analysis
-* Data management and quality practices
 
 ## What I Bring
 
