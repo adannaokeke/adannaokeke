@@ -62,8 +62,6 @@ I am developing practical capabilities in:
 
 ## Projects
 
-## Projects
-
 ### Customer Records Data Entry & Cleaning Project
 
 A practical Excel-based project demonstrating a complete data workflow:
