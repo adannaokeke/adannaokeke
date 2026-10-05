@@ -94,18 +94,12 @@ The project includes:
 
 ## What I Bring
 
-My Mathematics Education background has developed transferable skills in:
-
-* Analytical thinking
-* Accuracy and attention to detail
-* Problem solving
-* Organization
-* Record keeping
-* Communication
-* Reporting
-* Teaching and explanation
-
-I am continuing to build technical experience through practical, documented projects rather than simply listing technologies I am learning.
+* 12 years of experience in Mathematics Education
+* Strong attention to detail and accuracy
+* Practical experience with data entry, cleaning, validation, and organization
+* Proficiency in Microsoft Excel for data processing and reporting
+* Experience explaining technical concepts in a clear and simple way
+* A continuous-learning mindset as I transition into data and technology roles
 
 ## Connect
 
