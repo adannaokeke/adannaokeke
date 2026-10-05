@@ -23,30 +23,42 @@ I am developing practical capabilities in:
 * Data Validation
 * Data Organization
 * Data Processing
-* Data Management
 * Reporting
 * Data Analysis
 
-## Tools & Technologies
+## Skills & Tools
 
-**Microsoft Excel**
+### Data Entry 
 
-* Data entry and organization
-* Formulas and functions
-* Sorting and filtering
-* Data validation
-* Tables
+* Data Entry
+* Data Cleaning
+* Data Validation
+* Data Organization
+* Data Processing
+* Data Quality Checking
+* Reporting
+
+### Microsoft Excel
+
+* Formulas & Functions
+* Cell References
+* Sorting & Filtering
+* Excel Tables
+* Data Validation
+* Conditional Formatting
+* Charts
 * PivotTables
-* Reporting and dashboards
+* XLOOKUP
+* Power Query
 
-**Data & Analytics**
+### Currently Developing
 
+* Data Analysis
+* Data Visualization
 * SQL
 * Power BI
 * Python
 * Pandas
-
-These skills are currently being developed through structured learning and practical projects.
 
 ## Projects
 
@@ -68,7 +80,6 @@ Selected projects will be added here as they are completed.
 * Power BI for reporting and visualization
 * Python for data analysis
 * Data management and quality practices
-* Git and GitHub for portfolio development
 
 ## What I Bring
 
@@ -87,5 +98,5 @@ I am continuing to build technical experience through practical, documented proj
 
 ## Connect
 
-* LinkedIn: www.linkedin.com/in/adanna-okeke-5732b9291
+* LinkedIn: [linkedin.com/in/adanna-okeke-5732b9291](https://www.linkedin.com/in/adanna-okeke-5732b9291)
 * GitHub: [github.com/adannaokeke](https://github.com/adannaokeke)
