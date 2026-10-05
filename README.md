@@ -103,5 +103,5 @@ The project includes:
 
 ## Connect
 
-* LinkedIn: [linkedin.com/in/adanna-okeke-5732b9291](https://www.linkedin.com/in/adanna-okeke-5732b9291)
-* GitHub: [github.com/adannaokeke](https://github.com/adannaokeke)
+* **LinkedIn:** [Adanna Okeke](https://www.linkedin.com/in/adanna-okeke-5732b929)
+* **GitHub:** [@adannaokeke](https://github.com/adannaokeke)
