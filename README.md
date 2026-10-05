@@ -62,16 +62,28 @@ I am developing practical capabilities in:
 
 ## Projects
 
-I am building practical projects that demonstrate my ability to:
+## Projects
 
-* Enter and organize structured data
-* Identify and correct data-quality issues
-* Clean and validate datasets
-* Process data using Excel and other tools
-* Produce clear reports and visualizations
-* Translate data into useful information
+### Customer Records Data Entry & Cleaning Project
 
-Selected projects will be added here as they are completed.
+A practical Excel-based project demonstrating a complete data workflow:
+
+**Data Entry → Data Cleaning → Data Validation → Data Organization → Reporting**
+
+The project includes:
+
+* Raw and cleaned customer datasets
+* Data quality issue identification
+* Data cleaning and standardization
+* Duplicate detection and removal
+* Validation checks
+* PivotTable summary and chart
+* PDF summary report
+* Project documentation
+
+**Tools:** Microsoft Excel, Git, GitHub
+
+[View Project →](https://github.com/adannaokeke/Customer-Records-Data-Cleaning)
 
 ## Currently Learning
 
