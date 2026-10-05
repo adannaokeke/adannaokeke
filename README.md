@@ -1,10 +1,11 @@
-## Hi, I'm Adanna Okeke 👋
+## Introduction
 
-### Mathematics Educator | Microsoft & Technology Skills Trainer | Data & Technology Professional-in-Training
+*Hello!* I’m **Adanna Okeke**, a Mathematics Educator and Microsoft & Technology Skills Trainer transitioning into data and technology-focused roles.
 
-I am a Mathematics Educator with 12 years of teaching experience, currently developing my skills in data, technology, and digital workflows.
+I have 12 years of experience in Mathematics Education and practical skills in **Data Entry, Excel, Data Cleaning, Data Validation, Data Organization, Data Processing, and Reporting**.
 
-My professional background in Mathematics Education has strengthened my analytical thinking, accuracy, problem-solving, organization, communication, and ability to work with structured information. I am now applying these transferable skills as I transition into data-related professional work.
+I use this GitHub profile to document my learning, showcase practical projects, and build my professional portfolio as I continue developing my skills in data and technology.
+
 
 ## Professional Background
 
