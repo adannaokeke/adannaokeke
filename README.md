@@ -9,11 +9,11 @@ I use this GitHub profile to document my learning, showcase practical projects, 
 
 ## Professional Background
 
-* 12 years of experience in Mathematics Education
-* Experience with teaching, academic planning, record keeping, reporting, and student data
-* Microsoft Excel and practical data-processing training
-* Experience explaining technical and mathematical concepts clearly
-* Currently building practical skills for data-related roles
+I am a Mathematics Educator with 12 years of experience in teaching, classroom management, academic planning, student mentoring, and educational support.
+
+Alongside my teaching experience, I have developed practical skills in Microsoft Excel, data entry, data cleaning, data validation, data organization, data processing, and reporting.
+
+I am now combining my education experience with my growing technology and data skills to transition into data and technology-focused roles.
 
 ## Current Career Direction
 
