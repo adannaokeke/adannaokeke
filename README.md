@@ -97,5 +97,5 @@ The project includes:
 
 ## Connect
 
-* **LinkedIn:** [Adanna Okeke](https://www.linkedin.com/in/adanna-okeke-5732b929)
+* **LinkedIn:** [Adanna Okeke](www.linkedin.com/in/adanna-okeke-5732b9291)
 * **GitHub:** [@adannaokeke](https://github.com/adannaokeke)
